@@ -1,0 +1,1 @@
+{"parent":"item/handheld","textures":{"layer0":"item/netherite_sword"},"overrides":[{"predicate":{"custom_model_data":6000001},"model":"custom/elitecreatures/pluto/plutoaxe"},{"predicate":{"custom_model_data":6000002},"model":"custom/elitecreatures/pluto/plutosword"}]}

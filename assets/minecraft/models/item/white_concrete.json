@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/white_concrete","overrides":[{"predicate":{"custom_model_data":5600000},"model":"iavegas:custom/empty_button"},{"predicate":{"custom_model_data":5600001},"model":"item/white_concrete"}]}

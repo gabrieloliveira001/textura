@@ -1,0 +1,92 @@
+{
+ "custom.pluto.ptimevoid": {
+  "sounds": [
+   "custom/pluto/ptimevoid"
+  ]
+ },
+ "custom.pluto.psummon": {
+  "sounds": [
+   "custom/pluto/psummon"
+  ]
+ },
+ "custom.pluto.pslash": {
+  "sounds": [
+   "custom/pluto/pslash"
+  ]
+ },
+ "custom.pluto.pshout": {
+  "sounds": [
+   "custom/pluto/pshout"
+  ]
+ },
+ "custom.pluto.pportal": {
+  "sounds": [
+   "custom/pluto/pportal"
+  ]
+ },
+ "custom.pluto.pleech": {
+  "sounds": [
+   "custom/pluto/pleech"
+  ]
+ },
+ "custom.pluto.pgattack": {
+  "sounds": [
+   "custom/pluto/pgattack"
+  ]
+ },
+ "custom.pluto.pdying": {
+  "sounds": [
+   "custom/pluto/pdying"
+  ]
+ },
+ "custom.pluto.pdecapitate": {
+  "sounds": [
+   "custom/pluto/pdecapitate"
+  ]
+ },
+ "custom.pluto.pcombo": {
+  "sounds": [
+   "custom/pluto/pcombo"
+  ]
+ },
+ "custom.pluto.pchaosbolt": {
+  "sounds": [
+   "custom/pluto/pchaosbolt"
+  ]
+ },
+ "custom.pluto.cwalking": {
+  "sounds": [
+   "custom/pluto/cwalking"
+  ]
+ },
+ "custom.pluto.crip": {
+  "sounds": [
+   "custom/pluto/crip"
+  ]
+ },
+ "custom.pluto.cpounce": {
+  "sounds": [
+   "custom/pluto/cpounce"
+  ]
+ },
+ "custom.pluto.cmelee": {
+  "sounds": [
+   "custom/pluto/cmelee"
+  ]
+ },
+ "custom.pluto.chowl": {
+  "sounds": [
+   "custom/pluto/chowl"
+  ]
+ },
+ "custom.pluto.cfirebreath": {
+  "sounds": [
+   "custom/pluto/cfirebreath"
+  ]
+ },
+ "custom.pluto.cdying": {
+  "sounds": [
+   "custom/pluto/cdying"
+  ]
+ }
+}

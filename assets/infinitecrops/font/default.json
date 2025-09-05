@@ -1,0 +1,164 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0
+            }
+        },
+        {
+            "file": "infinitecrops:font/base/space_split.png",
+            "chars": [
+                "\ub001"
+            ],
+            "height": -3,
+            "ascent": -5000,
+            "type": "bitmap"
+        },
+		        {
+            "file": "infinitecrops:font/bars/left.png",
+            "chars": [
+                "⽊"
+            ],
+            "height": 16,
+            "ascent": 0,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:font/bars/full.png",
+            "chars": [
+                "⽉"
+            ],
+            "height": 16,
+            "ascent": 0,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:font/bars/empty.png",
+            "chars": [
+                "⽇"
+            ],
+            "height": 16,
+            "ascent": 0,
+            "type": "bitmap"
+        },
+		{
+            "file": "infinitecrops:font/bars/right.png",
+            "chars": [
+                "休"
+            ],
+            "height": 16,
+            "ascent": 0,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/quality_1.png",
+            "chars": [
+                "\ub006"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/quality_2.png",
+            "chars": [
+                "\ub007"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/quality_3.png",
+            "chars": [
+                "\ub008"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/soil_retain_1.png",
+            "chars": [
+                "\ub009"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/soil_retain_2.png",
+            "chars": [
+                "\ub00a"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/soil_retain_3.png",
+            "chars": [
+                "\ub00b"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/speed_grow_1.png",
+            "chars": [
+                "\ub00c"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/speed_grow_2.png",
+            "chars": [
+                "\ub00d"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/speed_grow_3.png",
+            "chars": [
+                "\ub00e"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/yield_increase_1.png",
+            "chars": [
+                "\ub00f"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/yield_increase_2.png",
+            "chars": [
+                "\ub010"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "infinitecrops:item/fertilizers/yield_increase_3.png",
+            "chars": [
+                "\ub011"
+            ],
+            "height": 8,
+            "ascent": 8,
+            "type": "bitmap"
+        }
+    ]
+}

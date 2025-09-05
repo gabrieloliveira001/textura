@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/emerald"},"overrides":[{"predicate":{"custom_model_data":5612106},"model":"iavegas:custom/3drums/drums_diamond"},{"predicate":{"custom_model_data":5612107},"model":"item/emerald"}]}

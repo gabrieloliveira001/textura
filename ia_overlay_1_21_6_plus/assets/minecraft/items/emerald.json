@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/emerald"},"entries":[{"threshold":5612106,"model":{"type":"model","model":"iavegas:custom/3drums/drums_diamond"}},{"threshold":5612107,"model":{"type":"model","model":"item/emerald"}}]},"oversized_in_gui":true}
