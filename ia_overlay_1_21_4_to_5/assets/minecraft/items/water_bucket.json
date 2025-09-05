@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/water_bucket"},"entries":[{"threshold":10000,"model":{"type":"model","model":"iasurvival:ia_auto_gen/boiled_water_bucket"}},{"threshold":10001,"model":{"type":"model","model":"item/water_bucket"}}]},"oversized_in_gui":true}

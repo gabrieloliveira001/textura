@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/white_concrete"},"entries":[{"threshold":5600000,"model":{"type":"model","model":"iavegas:custom/empty_button"}},{"threshold":5600001,"model":{"type":"model","model":"item/white_concrete"}}]},"oversized_in_gui":true}
