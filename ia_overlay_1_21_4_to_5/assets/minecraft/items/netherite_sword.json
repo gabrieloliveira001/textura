@@ -1,1 +1,0 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/netherite_sword"},"entries":[{"threshold":6000001,"model":{"type":"model","model":"custom/elitecreatures/pluto/plutoaxe"}},{"threshold":6000002,"model":{"type":"model","model":"custom/elitecreatures/pluto/plutosword"}}]},"oversized_in_gui":true}

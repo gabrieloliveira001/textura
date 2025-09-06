@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/dirt","overrides":[{"predicate":{"custom_model_data":5612107},"model":"iavegas:custom/3drums/drums_seven"},{"predicate":{"custom_model_data":5612108},"model":"item/dirt"}]}

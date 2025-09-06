@@ -1,1 +1,0 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/dirt"},"entries":[{"threshold":5612107,"model":{"type":"model","model":"iavegas:custom/3drums/drums_seven"}},{"threshold":5612108,"model":{"type":"model","model":"item/dirt"}}]},"oversized_in_gui":true}

@@ -1,1 +1,0 @@
-{"variants":{"west=true,up=true,south=true,north=true,east=true,down=true":{"model":"block/original/chorus_plant"},"down=false,east=false,north=false,south=false,up=false,west=true":{"model":"infinitecrops:item/basics/greenhouse_glass"}}}
